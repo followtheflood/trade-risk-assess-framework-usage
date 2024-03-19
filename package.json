@@ -1,0 +1,31 @@
+{
+  "name": "trade-risk-assess-framework-usage",
+  "version": "1.0.0",
+  "description": "Utilize the trade risk assessment framework for informed decision-making and risk management.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/followtheflood/trade-risk-assess-framework-usage"
+  },
+  "author": "followtheflood",
+  "license": "MIT",
+  "dependencies": {
+    "trade-risk-assess-framework": "1.0.0",
+    "trade-risk-assess-framework-usage": "1.0.0",
+    "underscore": "1.0.0",
+    "express": "1.0.0",
+    "chalk": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "passport": "1.0.0",
+    "react": "1.0.0",
+    "mocha": "1.0.0",
+    "mongoose": "1.0.0",
+    "socket.io": "1.0.0",
+    "body-parser": "1.0.0",
+    "bcrypt": "1.0.0",
+    "sinon": "1.0.0"
+  }
+}
